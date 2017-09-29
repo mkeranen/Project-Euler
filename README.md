@@ -1,2 +1,2 @@
-# Project-Euler-P1
-https://projecteuler.net/problem=1
+# Project-Euler
+https://projecteuler.net/archives
